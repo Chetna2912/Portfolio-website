@@ -98,20 +98,20 @@ export const projects = [
     demo: "https://military-readiness-intelligence.onrender.com/",
     // metric: { label: "Active users", value: "1,200+" },
   },
+  // {
+  //   id: "proj-03",
+  //   title: "Shree Studio",
+  //   // period: "2024",
+  //   description:
+  //     "A modern web experience built for Shree Studio, focused on clean visual presentation, responsive design, and a polished user experience.",
+  //   stack: ["React", "JavaScript", "CSS", "Vercel"],
+  //   tags: ["Web Development"],
+  //   github: "https://github.com/Chetna2912",
+  //   demo: "https://shree-studio.vercel.app/",
+  //   // metric: { label: "ROC-AUC", value: "0.94" },
+  // },
   {
     id: "proj-03",
-    title: "Shree Studio",
-    // period: "2024",
-    description:
-      "A modern web experience built for Shree Studio, focused on clean visual presentation, responsive design, and a polished user experience.",
-    stack: ["React", "JavaScript", "CSS", "Vercel"],
-    tags: ["Web Development"],
-    github: "https://github.com/Chetna2912",
-    demo: "https://shree-studio.vercel.app/",
-    // metric: { label: "ROC-AUC", value: "0.94" },
-  },
-  {
-    id: "proj-04",
     title: "Student Study Portal",
     //period: "2023",
     description:
